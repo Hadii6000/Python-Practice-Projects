@@ -2,7 +2,7 @@
 🚀 Aspiring Python Developer | Learning Cybersecurity  
 
 - 🌱 Currently learning: Python, Cybersecurity, Git & GitHub  
-- 💻 Tools: PyCharm, Git, Linux  
+- 💻 Tools: PyCharm, Git
 - 🔥 Building small projects to grow my coding skills  
   
 
