@@ -4,7 +4,7 @@
 - 🌱 Currently learning: Python, Cybersecurity, Git & GitHub  
 - 💻 Tools: PyCharm, Git, Linux  
 - 🔥 Building small projects to grow my coding skills  
-- 📫 Reach me: your_email@example.com  
+  
 
 ---
 ### ⚡ Goals
